@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejZCgE/f5BIubqXX/kng3wm62W9cBwv2wjimTR7n8NVt0d/VbJF7QoI89IUJEbkW2k/jMBbtV/3frrwxIT4A9Q==",
+  "success": true,
+  "projectFilePath": "D:\\TRAINING\\RESTC#\\HTTPClient\\RestSharpFramework-Final\\RestSharpFramework-Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
